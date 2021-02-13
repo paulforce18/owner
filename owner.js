@@ -49,21 +49,24 @@
             }
         ],
 
-        "worksDescription": "",
         "worksImages": [
             {
+                "worksDescription": "",
                 "image": "./images/monsterheel.png",
                 "alt": "name-picker"
             },
             {
+                "worksDescription": "",
                 "image": "./images/money.png",
                 "alt": "money-classifier"
             },
             {
+                "worksDescription": "",
                 "image": "./images/jp.jpg",
                 "alt": "nothing"
             },
             {
+                "worksDescription": "",
                 "image": "./images/jp.jpg",
                 "alt": "nothing"
             }
