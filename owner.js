@@ -29,7 +29,7 @@
             }
         ],
 
-        "skillsDescription": "I can create a simple static website with responsive layout",
+        "skillsDescription": "Making things in a good state with the help of tecnology.",
         "skills": [
             {
                 "skill": "javascript",
