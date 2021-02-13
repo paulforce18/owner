@@ -1,6 +1,6 @@
 [
     {
-        "firtName": "John Paul",
+        "firstName": "John Paul",
         "middleName": "Cabe",
         "lastName": "Alimango",
         "age": "22",
