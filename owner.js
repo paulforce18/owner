@@ -8,12 +8,14 @@
         "address": "Lias Marilao, Bulacan",
         "mobileNo": "09382610657",
         "email": "undergroundph12@gmail.com",
-    
+        "pictures": ["images/2_edited.jpg","images/.jpg"],
+        "school": "Pambayang Dalubhasaan ng Marilao",
+        
         "socialMediaAccounts": [
             {
                 "platform": "twitter",
                 "image": "./images/icons8-twitter-48.png",
-                "link": ""
+                "link": "https://twitter.com/c_alimango"
             },
             {   
                 "platform": "facebook",
@@ -23,7 +25,7 @@
             {
                 "platform": "linkedin",
                 "image": "./images/icons8-linkedin-48.png",
-                "link": ""
+                "link": "https://www.linkedin.com/in/john-paul-alimango-3057631b9"
             }
         ],
 
@@ -47,7 +49,7 @@
             }
         ],
 
-        "worksDescription": "This works are based on my college projects & Activities",
+        "worksDescription": "",
         "worksImages": [
             {
                 "image": "./images/monsterheel.png",
