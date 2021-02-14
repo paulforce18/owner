@@ -52,12 +52,12 @@
         "worksImages": [
             {
                 "worksDescription": "",
-                "image": "./images/monsterheel.png",
+                "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/monsterheel.png",
                 "alt": "name-picker"
             },
             {
                 "worksDescription": "",
-                "image": "./images/money.png",
+                "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/money.png",
                 "alt": "money-classifier"
             },
             {
