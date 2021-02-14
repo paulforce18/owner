@@ -29,7 +29,7 @@
             }
         ],
 
-        "skillsDescription": "Making things in a good state with the help of tecnology. Blah blah blah blah blah blah blah blah blahblah blah blah",
+        "skillsDescription": "blah blah blah. Blah blah blah blah blah blah blah blah blahblah blah blah",
         "skills": [
             {
                 "skill": "javascript",
