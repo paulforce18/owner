@@ -62,17 +62,12 @@
             },
             {
                 "worksDescription": "",
-                "image": "./images/jp.jpg",
+                "image": "https://github.com/paulforce18/owner/blob/main/project/jp.jpg",
                 "alt": "nothing"
             },
             {
                 "worksDescription": "",
-                "image": "./images/jp.jpg",
-                "alt": "nothing"
-            },
-            {
-                "worksDescription": "",
-                "image": "./images/jp.jpg",
+                "image": "https://github.com/paulforce18/owner/blob/main/project/jp.jpg",
                 "alt": "nothing"
             }
         ]
