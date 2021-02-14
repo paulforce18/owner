@@ -69,6 +69,11 @@
                 "worksDescription": "",
                 "image": "./images/jp.jpg",
                 "alt": "nothing"
+            },
+            {
+                "worksDescription": "",
+                "image": "./images/jp.jpg",
+                "alt": "nothing"
             }
         ]
     }
