@@ -51,12 +51,12 @@
 
         "worksImages": [
             {
-                "worksDescription": "",
+                "worksDescription": "This project is picking a random winner from a input list of names, it help me to understand ho html,css and javascript works.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/monsterheel.png",
                 "alt": "name-picker"
             },
             {
-                "worksDescription": "",
+                "worksDescription": "Php currency Detector app, this project can speak what money is infront of the camera we use tensorflow lite for our datasets and andropid studio for the app.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/money.png",
                 "alt": "money-classifier"
             },
