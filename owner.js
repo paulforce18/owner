@@ -50,19 +50,19 @@
         ],
 
         "worksImages": [
-            
+            {
                 "name": "Winner picker",
                 "worksDescription": "This project help me to understand ho html,css and javascript works.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/monsterheel.png",
                 "alt": "name-picker"
             },
-            
+            {
                 "name": "PHP Currency Detector App",
                 "worksDescription": "This project can speak what money is infront of the camera we use tensorflow lite for our datasets and andropid studio for the app.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/money.png",
                 "alt": "money-classifier"
             },
-            
+            {
                 "name": "",
                 "worksDescription": "",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/jp.jpg",
