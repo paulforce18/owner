@@ -29,7 +29,7 @@
             }
         ],
 
-        "skillsDescription": "blah blah blah.blah blah blah Blah blah blah blah blah blah blah blah blahblah blah blah",
+        "skillsDescription": "tulalalalalalala lalalalalalalalal allalalalalala",
         "skills": [
             {
                 "skill": "javascript",
@@ -52,25 +52,25 @@
         "worksImages": [
             {
                 "name": "Winner picker",
-                "worksDescription": "This project help me to understand ho html,css and javascript works.",
+                "worksDescription": "No Description.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/monsterheel.png",
                 "alt": "name-picker"
             },
             {
                 "name": "PHP Currency Detector App",
-                "worksDescription": "This project can speak what money is infront of the camera we use tensorflow lite for our datasets and andropid studio for the app.",
+                "worksDescription": "No Description.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/money.png",
                 "alt": "money-classifier"
             },
             {
-                "name": "",
-                "worksDescription": "",
+                "name": "no name",
+                "worksDescription": "No Description.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/jp.jpg",
                 "alt": "nothing"
             },
             {
-                "name": "",
-                "worksDescription": "",
+                "name": "no name",
+                "worksDescription": "No Description.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/jp.jpg",
                 "alt": "nothing"
             }
