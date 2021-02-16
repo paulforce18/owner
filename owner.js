@@ -53,23 +53,27 @@
             {
                 "name": "Winner picker",
                 "worksDescription": "No Description.",
+                "link": "https://stupefied-hoover-172ee2.netlify.app/",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/monsterheel.png",
                 "alt": "name-picker"
             },
             {
                 "name": "PHP Currency Detector App",
                 "worksDescription": "No Description.",
+                "link": "https://drive.google.com/file/d/17UWihocrVNBd_y2BR9t3LEtS7PebWxco/view?fbclid=IwAR0bGPbphSUbAbSTpn4TIfwOJiAJGOGHd-UGVgU9d1L4dcageKtNYut9DFg",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/money.png",
                 "alt": "money-classifier"
             },
             {
                 "name": "no name",
+                "link": "",
                 "worksDescription": "No Description.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/jp.jpg",
                 "alt": "nothing"
             },
             {
                 "name": "no name",
+                "link": "",
                 "worksDescription": "No Description.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/jp.jpg",
                 "alt": "nothing"
