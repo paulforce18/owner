@@ -10,6 +10,7 @@
         "email": "undergroundph12@gmail.com",
         "pictures": ["images/2_edited.jpg","images/.jpg"],
         "school": "Pambayang Dalubhasaan ng Marilao",
+        "resume": "https://raw.githubusercontent.com/paulforce18/owner/main/project/JohnPaulAlimangoresume.docx",
         
         "socialMediaAccounts": [
             {
