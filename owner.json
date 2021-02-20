@@ -53,7 +53,7 @@
         "worksImages": [
             {
                 "name": "Winner picker",
-                "worksDescription": "No Description.",
+                "worksDescription": "This web app is one of my web development course activities in PDM. made using HTML, CSS, and Javascript it can randomly pick a winner in the input list of names although it's a simple project, I learn many things about the web by doing this.",
                 "link": "https://stupefied-hoover-172ee2.netlify.app/",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/monsterheel.png",
                 "alt": "name-picker"
