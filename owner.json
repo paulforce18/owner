@@ -66,11 +66,11 @@
                 "alt": "money-classifier"
             },
             {
-                "name": "no name",
-                "link": "",
-                "worksDescription": "No Description.",
-                "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/jp.jpg",
-                "alt": "nothing"
+                "name": "Grading System",
+                "link": "https://github.com/paulforce18/owner/blob/main/project/grading.png",
+                "worksDescription": "This is C language project it helps me to understand the basic of programming.",
+                "image": "https://github.com/paulforce18/owner/blob/main/project/grading.png",
+                "alt": "grading-system"
             },
             {
                 "name": "no name",
