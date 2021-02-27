@@ -60,7 +60,7 @@
             },
             {
                 "name": "PHP Currency Detector App",
-                "worksDescription": "No Description.",
+                "worksDescription": "This is a android application that can classify the currency using camera it help me to play with a different data sets and give me a good understanding how to build an ML app.",
                 "link": "https://drive.google.com/file/d/17UWihocrVNBd_y2BR9t3LEtS7PebWxco/view?fbclid=IwAR0bGPbphSUbAbSTpn4TIfwOJiAJGOGHd-UGVgU9d1L4dcageKtNYut9DFg",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/money.png",
                 "alt": "money-classifier"
