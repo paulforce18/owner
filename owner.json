@@ -73,10 +73,10 @@
                 "alt": "grading-system"
             },
             {
-                "name": "no name",
-                "link": "",
-                "worksDescription": "No Description.",
-                "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/jp.jpg",
+                "name": "Food Gallery",
+                "link": "https://friendly-babbage-441897.netlify.app/",
+                "worksDescription": "I made this website to learn how to use JSON file.",
+                "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/foodgallery.png",
                 "alt": "nothing"
             }
         ]
