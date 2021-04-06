@@ -73,6 +73,13 @@
                 "alt": "grading-system"
             },
             {
+                "name": "POST",
+                "link": "post-r.netify.app",
+                "worksDescription": "I create this project to learn react.",
+                "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/jp.jpg",
+                "alt": "react-firebase"
+            },
+            {
                 "name": "Food Gallery",
                 "link": "https://afoodgallery.netlify.app/",
                 "worksDescription": "I made this website to learn how to use JSON file using HTML, CSS and jQuery",
