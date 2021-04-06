@@ -74,7 +74,7 @@
             },
             {
                 "name": "POST",
-                "link": "https://apost-r.netify.app/",
+                "link": "https://post-r.netify.app/",
                 "worksDescription": "I create this project to learn react.",
                 "image": "https://raw.githubusercontent.com/paulforce18/owner/main/project/jp.jpg",
                 "alt": "react-firebase"
